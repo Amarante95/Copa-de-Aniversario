@@ -1,4 +1,4 @@
-const CACHE_NAME = 'copa-jogo-pensado-v1';
+const CACHE_NAME = 'copa-jogo-pensado-v2';
 const CORE_ASSETS = [
   './',
   './index.html',
